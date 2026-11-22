@@ -42,7 +42,9 @@ The model achieved test set accuracy of 0.9187. Table below shows other metrics:
 
 Forest and Street classes are recognized the best, while glacier and mountain the worst.
 Below is shown a confusion matrix, which visualizes, which classes were confused the most.
+
 <img width="744" height="681" alt="image" src="https://github.com/user-attachments/assets/8a179ec7-ce57-49d0-9491-198141273f2a" />
+
 It is apparent, that mountain and glacier classes were confused the most, which makes a lot of sense, since both have very similar forms.
 
 ## Conclusions
